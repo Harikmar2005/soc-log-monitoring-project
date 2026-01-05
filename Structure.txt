@@ -1,0 +1,15 @@
+soc-log-monitoring-project/
+│
+├── README.md
+│
+├── dashboards/
+│   └── splunk-dashboard.png
+│
+├── configs/
+│   └── alert-rules.txt
+│
+├── logs/
+│   └── sample-logs.log
+│
+└── docs/
+    └── project-report.pdf

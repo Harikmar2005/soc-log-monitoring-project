@@ -1,0 +1,4 @@
+Alert: Failed Login Attempts
+Condition: More than 5 failed logins from same IP
+Action: Trigger email alert
+
