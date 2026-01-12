@@ -35,17 +35,15 @@ Documentation: Project presentation (PPT)
 
 ## 🏗 Project Workflow
 
-Collect system and authentication logs
+SIEM Setup
 
-Ingest logs into Splunk
+log collection
 
-Analyze logs using searches and filters
+Alert monitoring
 
-Create dashboards for visualization
+log coeeelation
 
-Configure alerts for suspicious activity
-
-Investigate incidents and suggest mitigation
+investingation & imcident respond
 
 ## 📊 Key Features
 
@@ -60,6 +58,7 @@ Alert rules based on defined thresholds
 Incident analysis and response documentation
 
 ## 📂 Project Structure
+
 soc-log-monitoring-project/
 │
 ├── README.md
@@ -117,4 +116,5 @@ Integration with IDS/IPS tools
 
 ## ✅ Conclusion
 
-This project showcases practical knowledge of SOC operations, log monitoring, and threat detection, making it suitable for SOC Analyst and Security Analyst roles.
+This project shows how log correlation works and  improve threat detection , response. Centralized logging and correlation enable SOC analysts to identify attacks early and reduce security risks.
+<img width="4509" height="105" alt="image" src="https://github.com/user-attachments/assets/5f9c904f-a9d3-4b1a-aac1-41817db3854d" />
